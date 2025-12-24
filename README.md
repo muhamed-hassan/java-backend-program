@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/references-in-java-backend/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/references-in-java-backend/wiki) for more info
 
 ***
 
