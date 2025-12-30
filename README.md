@@ -2,6 +2,10 @@
 
 ***
 
+Please visit this [`link`](https://github.com/muhamed-hassan/safe_planet/wiki/Jokes-in-the-profession-of-Java%E2%80%90backend%E2%80%90development) for jokes 🤣 to avoid being a naive
+
+***
+
 It's recommended to focus on those [**`technologies`**](https://github.com/muhamed-hassan/safe_planet/wiki/Dominant-and-authentic-techs-in-Spring-and-Java-EE-in-the-past-before-introducing-Spring-Boot) instead of going through the entire reference.
 
 ***
